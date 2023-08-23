@@ -19,6 +19,9 @@ nav{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 
 }
+#hol{
+    padding: 2px 5px 2px;
+}
 .bold-line{
     font-weight: bold;
     color: #0c32f1;
@@ -37,7 +40,7 @@ button{
     color: rgb(131, 237, 18);
 }
 .navbar-brand{
-    font-size: 28px;
+    font-size: 25px;
     font-weight: 400px;
     display: flex;
     justify-content: center;
@@ -58,7 +61,7 @@ button{
 /*css properties for index.html or home page*/
 #search-bar{
     opacity: 0.345;
-    margin: 20px 300px;
+    margin: 20px 50px;
     border:2px solid black;
     display:flex;
     padding: 10px;
