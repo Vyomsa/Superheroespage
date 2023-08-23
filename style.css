@@ -20,7 +20,7 @@ nav{
 
 }
 #hol{
-    padding: 2px 5px 2px;
+    padding: 2px 0px 2px;
 }
 .bold-line{
     font-weight: bold;
@@ -61,7 +61,7 @@ button{
 /*css properties for index.html or home page*/
 #search-bar{
     opacity: 0.345;
-    margin: 20px 50px;
+    margin: 20px 30px;
     border:2px solid black;
     display:flex;
     padding: 10px;
