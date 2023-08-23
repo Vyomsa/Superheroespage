@@ -40,7 +40,7 @@ button{
     color: rgb(131, 237, 18);
 }
 .navbar-brand{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 400px;
     display: flex;
     justify-content: center;
@@ -61,7 +61,7 @@ button{
 /*css properties for index.html or home page*/
 #search-bar{
     opacity: 0.345;
-    margin: 20px 30px;
+    margin: 20px 0px;
     border:2px solid black;
     display:flex;
     padding: 10px;
